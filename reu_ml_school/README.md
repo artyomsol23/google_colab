@@ -1,1 +1,1 @@
-ML School - REU Data Science Club
+ML SCHOOL - REU DATA SCIENCE CLUB
